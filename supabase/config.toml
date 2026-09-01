@@ -1,0 +1,19 @@
+project_id = "dceneqgcvjikbrsqvzlt"
+
+[functions.youtube-video-metadata]
+verify_jwt = true
+
+[functions.youtube-oembed-metadata]
+verify_jwt = true
+
+[functions.video-actions]
+verify_jwt = true
+
+[functions.youtube-public-metadata]
+verify_jwt = false
+
+[functions.feed-actions]
+verify_jwt = true
+
+[functions.youtube-public-info]
+verify_jwt = false
