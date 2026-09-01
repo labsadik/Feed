@@ -86,7 +86,7 @@ The shared shell is mounted once around the pages, so feed, watch, profile, Foll
 ### 1. Clone
 
 ```bash
-git clone https://github.com/WorkRCS/login-page-builder.git
+git clone https://github.com/labsadik/Feed.git
 cd login-page-builder
 ```
 
@@ -208,7 +208,7 @@ npm run preview
 
 ## References
 
-- Repository: https://github.com/WorkRCS/login-page-builder
+- Repository: https://github.com/labsadik/Feed
 - Vidstack: https://vidstack.io/
 - Supabase: https://supabase.com/
 - React: https://react.dev/
